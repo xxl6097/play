@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/annotations-e51552d4fbe0d7bd5d4bb1349e013f21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/dexedLibs/annotations-7e4ca0f1d4535020af9a04262a56c81e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
